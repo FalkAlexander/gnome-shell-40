@@ -16,9 +16,6 @@ License:       GPLv2+
 URL:           http://www.gnome.org
 Source0:       https://gitlab.gnome.org/GNOME/mutter/-/archive/master/mutter-master.tar.gz
 
-# Work-around for OpenJDK's compliance test
-Patch0:        0001-window-actor-Special-case-shaped-Java-windows.patch
-
 BuildRequires: chrpath
 BuildRequires: pango-devel
 BuildRequires: startup-notification-devel
