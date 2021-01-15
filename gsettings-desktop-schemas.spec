@@ -8,7 +8,7 @@ Summary:        A collection of GSettings schemas
 License:        LGPLv2+
 # no homepage exists for this component
 URL:            https://gitlab.gnome.org/GNOME/gsettings-desktop-schemas
-Source0:        https://download.gnome.org/sources/%{name}/40/%{name}-40.alpha.tar.xz
+Source0:        https://gitlab.gnome.org/GNOME/gsettings-desktop-schemas/-/archive/40.alpha/gsettings-desktop-schemas-40.alpha.tar.gz
 
 BuildRequires:  gettext
 BuildRequires:  glib2-devel >= 2.31.0
